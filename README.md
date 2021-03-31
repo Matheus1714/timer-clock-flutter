@@ -1,5 +1,5 @@
 # timer_clock
 
-![](img/icon.jpg)
+![](img/icon.JPG)
 
 Projeto de temporizador de estudo usando Flutter.
